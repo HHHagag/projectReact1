@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+
+.bg-custom{
+  background-color:#1a1a18;
+  backdrop-filter: blur(30px);
+  border: 1.5px solid #262626;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+.active{
+  background-color:#F74F00 ;
+  color: white;
+  border-radius: 16px;
+}
+.navBorder{
+border: 1.5px solid #262626;
+}
+
+
+.rounded{
+  border-radius:16px;
+}
+.buttonRounded{
+  border-radius:32px;
+  
+}
+
+.inputFiled{
+border-radius:16px;
+}
+
+body{
+  background-color: #0A0A0A;
+}
+
+.borderAbout{
+  
+  border: 1px solid #63310E ;
+}
+
+
+.form-control:focus {
+ border-color: #f97316;
+    box-shadow: 0 0 0 3px #f973161a;
+}
+
+
