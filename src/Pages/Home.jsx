@@ -10,7 +10,7 @@ import { FaMountainSun } from "react-icons/fa6";
 import { FaUser } from "react-icons/fa";
 import { FaSun } from "react-icons/fa6";
 import { FaEnvelope } from "react-icons/fa";
-import ImageCard from "../../components/ImageCard"
+import ImageCard from "../components/imageCard"
 import { Container, Row, Col } from "react-bootstrap";
 import photo1 from "../../src/assets/photo1.jpg";
 import photo2 from "../../src/assets/photo2.jpg";

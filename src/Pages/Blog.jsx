@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import projects from "../data/project.json";
-import ImageCard from "../../components/ImageCard";
+import ImageCard from "../components/imageCard";
 import { Container, Row, Col } from "react-bootstrap";
 import FilterationBtn from "../components/FilterationBtn";
 
